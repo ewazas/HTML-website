@@ -10,10 +10,10 @@
             src: url('../fonts/segoeuil.ttf');
         }
         .main-container {
-            height: 100%;
-            width: 100%;
+            height: 80%;
+            width: 80%;
             background-color: #1d539d;
-            color: white;
+            color: lawngreen;
             padding-top: 6%;
             box-sizing: border-box;
             overflow-y: auto;
